@@ -22,3 +22,5 @@ http://localhost/loginにアクセスし、ユーザー登録、ログイン、�
 
 ## 詰まったポイントと解決方法
 リダイレクト先をRouteServiceProvider::HOMEにしたかったが、どうしてもエラーになってしまうので、'home' => '/dashboard',にした。
+
+<img width="1438" height="859" alt="ダッシュボード" src="https://github.com/user-attachments/assets/81481081-6fd4-4a7f-8df1-bb7a789bc17f" />
